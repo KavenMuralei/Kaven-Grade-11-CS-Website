@@ -1,0 +1,1124 @@
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Homepage
+This is the homepage to my Class Website.
+-->
+
+<html>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <!DOCTYPE html>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+  <link rel="Icon" href="IMAGES/Home.png" type="image/x-icon">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <head>
+    <title>ICS3U Homepage</title>
+    <!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href="../../index.html" class="link">Home</a></li>
+        <hr class="line"><br>
+        <a href="UNITS/UNIT1/index.html" class="link"id="whenHovered">Unit 1</a></li>
+        <hr class="line"><br>
+        <a href="UNITS/UNIT2/index.html" class="link"id="whenHovered">Unit 2</a></li>
+        <hr class="line"><br>
+        <a href="UNITS/UNIT3/index.html" class="link"id="whenHovered">Unit 3</a></li>
+        <hr class="line"><br>
+        <a href="UNITS/UNIT4/index.html" class="link"id="whenHovered">Unit 4</a></li>
+        <hr class="line"><br>
+        <a href="UNITS/UNIT5/index.html" class="link"id="whenHovered">Unit 5</a></li>
+        <hr class="line"><br>
+        <a href="../ASSIGNMENTS/index.html" class="link"id="whenHovered">Assignments</a></li>
+        <hr class="line"><br>
+        <a href="SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li>
+        <hr class="line"><br>
+      </ul>
+    </nav>
+  </head>
+
+  <body class="animate__animated animate__fadeIn animate__slow">
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">ICS3U1-02 <br>Kaven's Class Website</h1>
+    </div>
+    <!--About Myself-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">About Myself</h2>
+      <p class="infoParagraph">Hello, my name is Kaven, and I am a student at Stouffville District Secondary School. This
+      is my first webpage and first experience with HTML and CSS. I provoundly enjoy mathematics and music. I enjoy
+      these subjects so much so that I participate in after school programs such as repertoire. I aspire to become a
+      computer scientist despite having no experience whatsoever. My fondness for computer science likely comes from my
+      addiction to video games. With this course, I wish to obtain basic knowledge and skill in the art of computer
+      science. </p>
+      <img src="IMAGES/AvatarMaker (2).png" class="imageAvatar">
+    </div>
+    <!--About This Course-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">About This Course</h2>
+      <p class="infoParagraph">This course introduces students to computer science. Students will design software
+      independently and as part of a team, using industry-standard programming tools and applying the software
+      development life-cycle model. They will also write and use subprograms within computer programs. Students will
+      develop creative solutions for various types of problems as their understanding of the computing environment
+      grows.They will also explore environmental and ergonomic issues, emerging research in computer science, and global
+      career trends in computer-related fields.</p>
+      <img src="IMAGES/aboutCourse.jpg" class="imageCourse">
+    </div>
+    <!--Learning Skills-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Learning Skills</h2>
+      <p class="infoParagraph">Assessment of the learning skills will be done on an ongoing basis throughout the academic
+      year by
+      observations of students at work, checklists and interviews. This will include:
+
+      Classwork/homework (Work habits, homework and organization)
+      Completed work and seeking assistance (Organization and initiative)
+      Persistence and independence at tasks (Working independently and initiative)
+      Extension of task (Organization and initiative)
+      Achievement of group goals (Team work).</p>
+      <img src="IMAGES/Learning-Skills.jpg" class="imageCourse">
+    </div>
+    <!--Assessment Strats-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Assessment Strategies</h2>
+      <p class="infoParagraph">A variety of teaching/assessment strategies to address students’ needs will be used during
+      the school year.
+      Formative assessments will be ongoing through out the academic year. These may include: Diagnostic assessment,
+      Formative assessment, Performance assessment, Portfolio assessment, Rubrics, Checklists.</p>
+      <img src="IMAGES/Assess.jpg" class="imageCourse2">
+    </div>
+    <div class="infoHeaderBox2">
+      <!--Term Summative Evaluations-->
+      <img src="IMAGES/Team.jpeg" class="imageCourse3">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Term Summative Evaluations (70% Term Work)</h2>
+      <p class="infoParagraph2">Tests, quizzes, projects, assignments and other forms of term summative evaluations will
+      occur throughout the academic year and at the end of units of work as outlined in the accompanying course outline.
+      Students will be provided with reasonable opportunities to master skills relating to the achievement of the
+      curriculum expectations before assessment and evaluation occurs. Major evaluations will be announced at least one
+      week in advance. Accommodations will be made for school activities, statutory holidays, religious days, cultural
+      days, sports events and other occurrences that may impact on any scheduled evaluation. It is the student’s
+      responsibility to notify teachers of such absences in advance and to make up missed work. Absence on the day of an
+      evaluation must be documented. If a student must miss an evaluation, s/he is expected to: A.Notify the teacher
+      before the absence to arrange for an alternative date to make up the evaluation; or B.In case of illness or
+      unexpected absence, present a note to the teacher, signed by a parent or guardian, immediately upon their return
+      to explain the absence. An alternate evaluation will then be scheduled at a mutually convenient time. The Late
+      Policy applies to all assignments and evaluations and will be discussed in class. Cheating will not be tolerated
+      and will be dealt with appropriately.</p>
+    </div>
+    <!--Term Work-->
+    <div class="infoHeaderBox4">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Term Work: 70% Levels of Achievement</h2>
+      <p class="infoParagraph">Knowledge and Understanding: 25%.</p>
+      <p class="infoParagraph">Application: 25%.</p>
+      <p class="infoParagraph">Thinking: 10%.</p>
+      <p class="infoParagraph">Communication: 10%.</p>
+      <p class="infoParagraph">Final Summative Evaluations: 30%.</p>
+      <p class="infoParagraph">Final Programming Project 30%.</p>
+      <img src="IMAGES/programmer.jpg" class="imageCourse">
+    </div>
+    <!--Reporting-->
+    <div class="infoHeaderBox4">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Reporting</h2>
+      <p class="infoParagraph">Report #1 100% Term Work</p>
+      <p class="infoParagraph">Report #2 100% Term Work</p>
+      <p class="infoParagraph">June Report 70% Term Work + 30% Final Project</p>
+      <img src="IMAGES/report.png" class="imageCourse6">
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Assignments
+This is the Assignments Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<html>
+  <link rel="Icon" href="../IMAGES/Paper.png" type = "image/x-icon">
+  <script src="script.js"></script>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>ICS3U Homepage</title>
+    <link href="../../style.css" rel="stylesheet" type="text/css" />
+    <!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus">≡</a>
+      <a href="#" class="button minus">≡</a>
+	    <p>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "../UNITS/UNIT1/index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT2/index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT3/index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT4/index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT5/index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li>
+        <hr class="line"><br>
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">Assignments</h1>
+    </div>
+    <div class="infoHeaderBox">
+      <!--Assignment 1-->
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Unit 1 Assignment-Introduction to Using Computers and Programming</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>March 1st 2022</p>
+      <a class="work2" style=font-size:20px href="https://unit1website.sansarsharma.repl.co/index.html">Click Here!</a>
+      <p class="infoParagraph">This is the first unit assignment of the course. For this assignment, my group and I were tasked to create a website covering all consepts of unit 1. This includes; Coding using HTML, Formatting code, Documentation, Computer Number Systems, Computer Hardware and Software, Binary and Analog Signals, Compiled and Interpreted Languages, Web Design using CSS, and Programming using an instruction set.</p>
+      <img src="../IMAGES/mansOnThePC.jpg" class="imageCourse">
+    </div>
+    <!--Assignment 2-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Unit 2 Basic Programming Assignment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>April 4th 2022</p>
+      <a class="work2" style=font-size:20px href="https://unit2basicprogrammingassignment.kavenmuraleitha.repl.co/index.html">Click Here!</a>
+      <p class="infoParagraph">For my 2nd unit assignment, my group and I were tasked to create a small Java script game using alerts, prompts, If, else ifs and else, Logical Operators, For, while and do while loops, Shortcut operators, Random numbers, and Math operations. With this in mind, my group and I created a rock paper scissors game with alert boxes. Furthermore, we added our own twist by adding a rock paper scissor insane mode.
+      </p>
+      <img src="../IMAGES/rockPaperScissors.png" class="imageCourse">
+    </div>
+    <!--Assignment 3-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Unit 2 MultiProblem Assignment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>April 11th 2022</p>
+      <a class="work2" style=font-size:20px href="https://ics3u-problem-solving-assignment.kavenmuraleitha.repl.co/index.html">Click Here!</a>
+      <p class="infoParagraph">For our 3rd unit assignment, my group and I were tasked to create several programs using Javascript. This include a Guessing Game, Special Mathematical Sequences, a Start and Stop program, a Co-ordinate program, a Number Puzzle program, and a dice program
+      </p>
+      <img src="../IMAGES/mansDoingCode.jpg" class="imageCourse2">
+    </div>
+    <!--Assignment 4-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">String Functions Assignment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>May 13th 2022</p>
+      <a class="work2" style=font-size:20px href="https://ics3ustringsfunctionsassignment.kavenmuraleitha.repl.co/">Click Here!</a>
+      <p class="infoParagraph">This is the 4th unit assignment of this course. My group and I were tasked to solve 4 Javascript problems each day for 3 days in a row. For these problems, we were forced to use functions and string functions. 
+      </p>
+      <img src="../IMAGES/stringFunction.png" class="imageCourse2">
+    </div>
+    <!--Assignment 5-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Arrays Assignment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>May 26th 2022</p>
+      <a class="work2" style=font-size:20px href="https://ics3uarraysassignment.kavenmuraleitha.repl.co/">Click Here!</a>
+      <p class="infoParagraph">For the 5th unit assignment my group and I were tasked to solve 15 Javascript problems with a variety of arrays. The first one being a list of names, second one being a numbers, the third one being a list of money, and the last one being a list of passwords. 
+      </p>
+      <img src="../IMAGES/coolComputerScience.jfif" class="imageCourse2">
+    </div>
+    <!--Assignment 6-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite"id="whenHovered2">Class Portfolio Assignment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>June 3rd 2022</p>
+      <a class="work2" style=font-size:20px href="https://ICS3UWebsiteProject.kavenmuraleitha.repl.co">Click Here!</a>
+      <p class="infoParagraph">Hey! Thats this assignment! The class portfolio assignment is a HTML and CSS website that outlines our work done through out the course. This assingment includes up to 5 units and 6 assignments (currently).
+      </p>
+      <img src="../IMAGES/website.PNG" class="imageCourse2">
+    </div>
+  </body>
+</html>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Summative
+This is the Summative to my Class Website.
+-->
+
+<html>
+  <link href="../style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <!DOCTYPE html>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="../script.js"></script>
+  <link rel="Icon" href="IMAGES/Home.png" type="image/x-icon">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <head>
+    <title>ICS3U Homepage</title>
+    <!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href="../../index.html" class="link">Home</a></li>
+        <hr class="line"><br>
+        <a href="../UNITS/UNIT1/index.html" class="link"id="whenHovered">Unit 1</a></li>
+        <hr class="line"><br>
+        <a href="../UNITS/UNIT2/index.html" class="link"id="whenHovered">Unit 2</a></li>
+        <hr class="line"><br>
+        <a href="../UNITS/UNIT3/index.html" class="link"id="whenHovered">Unit 3</a></li>
+        <hr class="line"><br>
+        <a href="../UNITS/UNIT4/index.html" class="link"id="whenHovered">Unit 4</a></li>
+        <hr class="line"><br>
+        <a href="../UNITS/UNIT5/index.html" class="link"id="whenHovered">Unit 5</a></li>
+        <hr class="line"><br>
+        <a href="../ASSIGNMENTS/index.html" class="link"id="whenHovered">Assignments</a></li>
+        <hr class="line">
+      </ul>
+    </nav>
+  </head>
+
+<body class="animate__animated animate__fadeIn">
+  <div class="titleHeaderBox">
+    <h1 class="titleHeaderText animate__animated animate__slideInDown animate__pulse anime">Summative</h1>
+  </div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Unit 1
+This is the Unit 1 Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<!DOCTYPE html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<script src="../../script.js"></script>
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<html>
+  <link rel="Icon" href="../../IMAGES/book.png" type = "image/x-icon">
+  <head>
+    <title>Unit1</title>
+<!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT2/index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT3/index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT4/index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT5/index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li>
+        <hr class="line"><br>
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+     
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">UNIT <br>1</h1>
+    </div>
+    <!--Unit Summary-->
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Working in the Computing/Programming Environment</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>Periods:  10</p>
+      <p class="infoParagraph">This unit focuses on basic computer and information science skills. Students identify hardware components, research ergonomic considerations, practise file management skills, access resources through local and wide area networks, and research the evolution of programming languages. They develop skills for success in the computer and information science environment. Students focus on the Computer and Information Science environment; students also examine respect for the environment and wise use of resources from a responsible perspective.</p>
+      <img src="../../IMAGES/Computer.jpg" class="imageCourse">
+    </div>
+    <!--Work-->
+    <div class="infoHeaderBox2">
+      <img src="../../IMAGES/guyWorking.jpg" class="imageCourse3">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Work</h2>
+      <div class="work">
+        <a class="work" href= "WORK/CourseOutline.pdf">Course Outline</a><br>
+        <a class="work" href= "WORK/computerProgrammingReading.pdf">Computer Programming Reading</a><br>
+        <a class="work" href= "WORK/crossword.pdf">CrosswordPage</a><br>
+        <a class="work" href= "WORK/crosswordAnswersTemplate.pdf">Crossword answers</a><br>
+        <a class="work" href= "WORK/BeginningToCodeV3.pdf">Beginning To Code</a><br>
+        <a class="work" href= "WORK/imagesAndLinksStudent.pdf">Images and Links</a><br>
+        <a class="work" href= "WORK/Paths Worksheet.pdf">Paths Worksheet</a><br>
+        <a class="work" href= "WORK/usingCSSv1.pdf">Using CSS v1</a><br>
+        <a class="work" href= "WORK/treeDiagram (1).png">Tree Diagram</a><br>
+        <a class="work" href= "WORK/Conversion_Worksheet.pdf">Conversion Worksheet</a><br>
+        <a class="work" href= "WORK/MLIv2students.pptx">MLIv2 Students</a><br>
+        <a class="work" href= "WORK/Write a computer program (using both numbered and worded instructions) to calculate and print the average of the numbers 10,20,30 and 40.pptx">Write a computer program</a><br>
+        <a class="work" href= "WORK/inverseOutput.pptx">Inverse Output</a><br>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Unit 2
+This is the Unit 2 Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<!DOCTYPE html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<script src="../../script.js"></script>
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<html>
+  <link rel="Icon" href="../../IMAGES/book.png" type = "image/x-icon">
+  <head>
+    <title>Unit2</title>
+    <!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT1/index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT3/index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT4/index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT5/index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li><hr class="line">
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+     <!--Unit Summary-->
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">Unit <br>2</h1>
+    </div>
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Beginning to Program</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>Periods:  26</p>
+      <p class="infoParagraph">This unit focuses on basic programming structures. Students write simple programs, using variable assignment, repetition, and decision structures, and develop effective testing, validating, and documenting skills. They also explore roles of effective communicators and reflective thinkers when following a problem-solving model (e.g., user inputs a series of marks, each value is validated, the average is calculated, and a grade is assigned).</p>
+      <img src="../../IMAGES/coolCode.jpg" class="imageCourse">
+    </div>
+    <div class="infoHeaderBox2">
+      <img src="../../IMAGES/guyWorking.jpg" class="imageCourse3">
+      <!--Work-->
+      <h2 class="infoHeaderText">Work</h2>
+      <div class="work">
+        <a class="work" href= "WORK/Copy of IntroToJS.docx">IntroToJS</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/JS Basics-Problems.pdf">JS Basics-Problems</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/problemsUsingDecisions.pdf">problemsUsingDecisions</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/Programming Problems-Loops.pdf">Programming Problems-Loops</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/Programming Problems-Loops 2.pdf">Programming Problems-Loops 2</a><br>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Unit 3
+This is the Unit 3 Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<!DOCTYPE html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<script src="../../script.js"></script>
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<html>
+  <link rel="Icon" href="../../IMAGES/book.png" type = "image/x-icon">
+  <head>
+    <title>Unit3</title>
+<!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT1/index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT2/index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT4/index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT5/index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li><hr class="line">
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <!--Unit Summary-->
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">UNIT <br>3</h1>
+    </div>
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Problem Solving/Computers and Society</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>Periods:  10</p>
+      <p class="infoParagraph">This unit focuses on using problem solving strategies in the computer science field as well as investigation into societal issues involving computer technology.  This includes an exploration of careers in computer studies. Students also examine issues surrounding privacy, security, and ethical use of information</p>
+      <img src="../../IMAGES/ComputerWithEarth.jpg" class="imageCourse6">
+    </div>
+    <div class="infoHeaderBox2">
+      <!--Work-->
+      <img src="../../IMAGES/guyWorking.jpg" class="imageCourse3">
+      <h2 class="infoHeaderText">Work</h2>
+      <div class="work">
+        <a class="work" href= "WORK/computerCareersWorksheet.pdf">Computer Careers Worksheet</a <br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/computerCrimeWorksheet2020.pdf">Computer Crime Worksheet 2020</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/FlowchartsAndAlgorithmsSolutions.pdf">Flowcharts And Algorithms Solutions</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/IPO_ChartsStudents.pptx">IPO Charts Students</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/PDT_Table2020Sem1.pdf">PDT_Table 2020 Sem1</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/pseudocodeWorksheet.pdf">Pseudocode Worksheet</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/futureTechWorksheet2020.pdf">Future Tech Worksheet2020</a><br>
+        <div class="work">
+        <a class="work" href= "WORK/pseudocodeWorksheet.pdf">Pseudocode Worksheet</a><br>
+      </div>
+      </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Unit 4
+This is the Unit 4 Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<!DOCTYPE html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<script src="../../script.js"></script>
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<html>
+  <link rel="Icon" href="../../IMAGES/book.png" type = "image/x-icon">
+  <head>
+    <title>Unit4</title>
+<!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT1/index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT2/index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT3/index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT5/index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li><hr class="line">
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+     <!--Unit Summary-->
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText animate__animated animate__slideInDown">UNIT <br>4</h1>
+    </div>
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Information Storage, modular programming and data structures</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>Periods:  30</p>
+      <p class="infoParagraph">This unit focuses on the advanced features of programming. For example students learn about data storage and manipulation. In addition modular programming is introduced. Data structures such as arrays are taught. Common algorithms like the Bubble Sort are examined. Students are expected to incorporate as many of these more complex programming features in their final summative project.
+</p>
+      <img src="../../IMAGES/veryCoolCode.jpg" class="imageCourse">
+    </div>
+    <!--Work-->
+    <div class="infoHeaderBox2">
+      <img src="../../IMAGES/guyWorking.jpg" class="imageCourse3">
+      <h2 class="infoHeaderText">Work</h2>
+      <div class="work">
+        <a class="work" href= "WORK/scope.pdf">Scope</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/functions.pdf">Functions</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/functionsPart2_2021.docx.pdf">Functions Part 2</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "https://ics3uwebsiteproject3.kavenmuraleitha.repl.co/UNITS/UNIT4/LESSON3/functionsPart2/index.html">(THIS IS THE HTML FILE FOR ABOVE)</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/Copy of stringFunctions.docx.pdf">String Functions</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/RecursionWorksheetV1.pdf">Recursions Worksheet</a><br>
+      </div>
+      <div class="work">
+        <a class="work" href= "WORK/arraysJS.pdf">Arrays</a><br>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<!--
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+Unit 1
+This is the Unit 1 Page to my Class Website.
+-->
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+<!DOCTYPE html>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="script.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<script src="../../script.js"></script>
+<link href="../../style.css" rel="stylesheet" type="text/css" />
+<html>
+  <link rel="Icon" href="../../IMAGES/book.png" type = "image/x-icon">
+  <head>
+    <title>Unit1</title>
+<!--Side Bar-->
+    <nav id="sidebar">
+      <a href="#sidebar" class="button plus"id="test">≡</a>
+      <a href="#" class="button minus"id="test2">≡</a>
+      <p id=whenClicked>Kaven Muraleitharan</p>
+      <br>
+      <br>
+      <ul>
+        <a href= "../../index.html" class="link">Home</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT1/index.html" class="link">Unit 1</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT2/index.html" class="link">Unit 2</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT3/index.html" class="link">Unit 3</a></li><hr class="line"><br>
+        <a href= "../../UNITS/UNIT4/index.html" class="link">Unit 4</a></li><hr class="line"><br>
+        <a href= "index.html" class="link">Unit 5</a></li><hr class="line"><br>
+        <a href= "../../ASSIGNMENTS/index.html" class="link">Assignments</a></li><hr class="line"><br>
+        <a href="../../SUMMATIVE/index.html" class="link"id="whenHovered">Summative</a></li><hr class="line">
+      </ul>
+    </nav>
+  </head>
+  <body class="animate__animated animate__fadeIn">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@1,500&display=swap" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+     <!--Unit Summary-->
+    <div class="titleHeaderBox">
+      <h1 class="titleHeaderText">UNIT <br>5</h1>
+    </div>
+    <div class="infoHeaderBox">
+      <h2 class="infoHeaderText animate__animated animate__pulse animate__infinite">Summative</h2>
+      <p class="infoParagraph" style=font-size:15px;color:black;>Periods:  20</p>
+      <p class="infoParagraph">Students will spend the last few weeks of class designing and developing an application that incorporates most, if not all, the concepts taught in the course. Example ideas include the following: video games, multimedia organizers, educational quizzes etc. This project comprises 30% of the course mark.
+      </p>
+      <img src="../../IMAGES/coolGuyOnPC.jpg" class="imageCourse6">
+    </div>
+    <!--Work-->
+    <div class="infoHeaderBox2">
+      <img src="../../IMAGES/guyWorking.jpg" class="imageCourse3">
+      <h2 class="infoHeaderText">Work</h2>
+      <div class="work">
+        <a class="work" href= "WORK/Copy of Copy of Making a Video Game Using Phaser.pdf">Making a Video Game Using Phaser.</a><br>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/*
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+JS
+This is the script page for my class website. 
+*/
+$(document).ready(function(){
+  //This is for the side bar
+  $("#whenHovered").hover(function(){  $("#whenHovered").addClass("animate__animated animate__tada animate__infinite");
+  });
+  $("#whenHovered").mouseleave(function(){  $("#whenHovered").removeClass("animate__animated animate__tada animate__infinite");
+  });
+
+  //This is for the About Myself bar
+  $("#whenHovered2").hover(function(){  $("#whenHovered2").addClass("animate__animated animate__pulse animate__infinite");
+  });
+
+  //This is for the icon in the Side Bar
+  $("#test").hover(function(){  $("#test").addClass("animate__animated animate__tada animate__infinite");
+  });
+  $("#test").mouseleave(function(){  $("#test").removeClass("animate__animated animate__tada animate__infinite");
+  });
+
+  //(alt remove before submitting)
+  $("#test2").hover(function(){  $("#test2").addClass("animate__animated animate__tada animate__infinite");
+  });
+  $("#test2").mouseleave(function(){  $("#test2").removeClass("animate__animated animate__tada animate__infinite");
+  });
+
+  //This is when the side bar is clicked
+  $("#test").click(function(){  $("#whenClicked").addClass("animate__animated animate__fadeInDown");
+  }); 
+});
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/*
+Kaven Muraleitharan
+4/20/2022
+Mr. Krnic
+CSS
+This is the style page for my class website. 
+*/
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css");
+
+body { background: -webkit-linear-gradient(360deg,#383836 10%,#4a4a4a 360%); background: linear-gradient(360deg,#383836 10%,#4a4a4a 360%); }
+/*
+This is the code for the side bar
+*/
+p { 
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  text-align:center;
+}
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  left: -300px;
+  height: 100%;
+  width: 300px;
+  background-color: #d9d9d9;
+  color: #000000;
+  padding: 20px;
+  box-sizing: border-box;
+	transition: left 500ms ease;
+  z-index: 1001;
+}
+
+.button {
+  position: absolute;
+  top: 0;
+  right: -40px;
+  color: #ffffff;
+  text-decoration: none;
+  background-color: rgba(0,0,0,0.0);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 50px;
+  font-weight: bold;
+  z-index: 1001;
+  filter: drop-shadow(8px 8px 10px black);
+}
+
+.plus { 
+  display: block;
+  z-index: 1001;
+}
+
+.minus { 
+  display: none;
+  z-index: 1001;
+}
+
+#sidebar:target {
+  left: 0; 
+}
+
+#sidebar:target > a.plus { 
+  display: none; 
+}
+
+#sidebar:target > a.minus { 
+  display: block; 
+}
+.line {
+  
+  border: 1px solid;
+  border: linear-gradient(to right, #fc5c7d, #6a82fb);
+  
+}
+.link {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  text-align:center;
+  transition: ease 0.25s;
+  animation:animate__animated animate__tada;
+}
+
+.link:hover {
+    font-family: 'DM Sans', sans-serif;
+  color: white;
+  animation:animate__animated animate__tada infinite;
+}
+/*
+This is the big title header with the weird geometric shape popping out
+*/
+.titleHeaderBox {
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: linear;
+  border-style: groove;
+  padding: 20px;
+  width: 1850px;
+  height: 700px;
+  border-color: black; 
+  background-image:url(IMAGES/gif.gif);
+  
+}
+/*
+This is where the course code and my name is.
+*/
+.titleHeaderText {
+
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+  font-size: 80px;
+  margin-top: 10%;
+  color: white;
+  z-index:0;
+  filter: drop-shadow(8px 8px 10px black);
+}
+/*
+This is the about me box
+*/
+.infoHeaderBox {
+  border-style: groove;
+  padding: 20px;
+  width: 1850px;
+  height: 500px;
+  margin: auto;
+  border-color: black; 
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  margin-top:1%;
+  filter: drop-shadow(8px 8px 10px black);
+}
+/*
+This is the description
+*/
+.infoHeaderText {
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0%;
+  color: white;
+  filter: drop-shadow(8px 8px 10px black);
+}
+/*
+This is the picture of the avatar
+*/
+.imageAvatar {
+  border-style:solid;
+  border-color:"black";
+  border-radius: 50%;
+  margin-top:-20%;
+}
+/*
+This is a intro paragraph
+*/
+.infoParagraph {
+  width:800px;
+  text-align: center;
+  margin-left:27%;
+  color: white;
+  font-family: 'DM Sans', sans-serif;
+  font-size:25px;
+}
+/*
+This is a hover for the info paragraph
+*/
+.infoParagraph:hover {
+  filter: drop-shadow(8px 8px 10px black);
+  transition: ease 0.5s;
+}
+/*
+This is all the images of the course
+*/
+.imageCourse {
+  margin-top:-15%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+}
+.imageCourse2 {
+  margin-top: -10%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+}
+/*
+More info!!!!!!!!!!!!!
+*/
+.infoParagraph2 {
+  width:800px;
+  margin-left:27%;
+  color: white;
+  font-family: 'DM Sans', sans-serif;
+  font-size:25px;
+  margin:auto;
+}
+
+.infoParagraph2:hover {
+  filter: drop-shadow(8px 8px 10px black);
+  transition: ease 0.5s;
+}
+
+.infoHeaderBox2 {
+  border-style: groove;
+  padding: 20px;
+  width: 1850px;
+  height: 800px;
+  border-color: black; 
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  margin-top:1%;
+  filter: drop-shadow(8px 8px 10px black);
+}
+.imageCourse3 {
+  position: absolute;
+  margin-top: 10%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+}
+.infoHeaderBox4 {
+  border-style: groove;
+  padding: 20px;
+  width: 1850px;
+  height: 400px;
+  margin: auto;
+  border-color: black; 
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  margin-top:1%;
+}
+.imageCourse4 {
+  margin-top:-25%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+}
+.imageCourse5 {
+  margin-top:0%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+}
+/*
+All the work found throughout the course
+*/
+.work {
+  text-align:center;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  transition: ease 0.25s;
+}
+
+.work:hover {
+    font-family: 'DM Sans', sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+.work2 {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 30px;
+  color: #e9e2e2;
+  text-decoration: underline;
+  transition: ease 0.25s;
+  margin-left: 45.75%;
+}
+
+.work2:hover {
+    font-family: 'DM Sans', sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+.work3 {
+  color:black;
+  text-decoration: underline;
+  text-align:center;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 30px;
+  color: white;
+  transition: ease 0.25s;
+}
+
+.imageCourse6 {
+  margin-top:-8%;
+  border-style:solid;
+  border-color:"black";
+  width: 450px;
+  height: 300px;
+  filter: drop-shadow(8px 8px 10px black);
+  z-index:7;
+  position: relative;
+}
+
+/*
+The text file button found in the home screen
+*/
+.txtFile {
+  padding: 20px;
+  width:300px;
+  height: 75px;
+  margin: auto;
+  position: absolute;
+  z-index:1001;
+  margin-left:83%;
+  margin-top:-40%;
+  background-color: #d9d9d9;
+  border-radius:10%;
+  filter: drop-shadow(8px 8px 10px black);
+  font-family: 'DM Sans', sans-serif;
+  font-size:25px;
+  text-align:center;
+  opacity: 0.7;
+}
+
+.txtFile:hover {
+  background-color: #a6a6a6;
+}
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
